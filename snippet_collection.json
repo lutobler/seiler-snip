@@ -1,0 +1,14 @@
+[
+	{
+		"keyword": "list",
+		"cmd": "ls"
+	},
+	{
+		"keyword": "multiline",
+		"cmd": "hello\nworld,\nthis is seiler-snip\n"
+	},
+	{
+		"keyword": "wordkir",
+		"cmd": "pwd\n"
+	}
+]
